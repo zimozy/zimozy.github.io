@@ -2,6 +2,7 @@
 # Add custom properties for the current file here
 # to override the default properties.
 author: Tim
+title: Dog Eats a Bunch of Chips
 
 ---
 
