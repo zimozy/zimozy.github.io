@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+author: Tim
+title: This is my first post!
 date:   2018-03-16 19:04:37 -0400
 categories: jekyll update
 ---
